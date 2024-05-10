@@ -1,0 +1,43 @@
+<interface>
+	<name>Get datacore pool physical disks data</name>
+	<script_path>|path_cacti|/scripts/ss_datacore_PoolPhysicalDisks.php</script_path>
+    <script_function>ss_datacore_PoolPhysicalDisks</script_function>
+ 	<script_server>php</script_server>
+	<arg_prepend>|host_hostname| |host_id| |host_snmp_version|:|host_snmp_port|:|host_snmp_timeout|:|host_ping_retries|:|host_max_oids|:|host_snmp_community|:|host_snmp_username|:|host_snmp_password|:|host_snmp_auth_protocol|:|host_snmp_priv_passphrase|:|host_snmp_priv_protocol|:|host_snmp_context|</arg_prepend>
+	<arg_index>index</arg_index>
+	<arg_query>query</arg_query>
+	<arg_get>get</arg_get>
+	<arg_num_indexes>num_indexes</arg_num_indexes>
+	<output_delimiter>!</output_delimiter>
+	<index_order>Name</index_order>
+	<index_order_type>numeric</index_order_type>
+	<index_title_format>|chosen_order_field|</index_title_format>
+
+	<fields>
+        <Name>
+            <name>Name</name>
+			<direction>input</direction>
+			<query_name>index</query_name>
+        </Name>
+		<BytesAllocated>
+			<name>BytesAllocated</name>
+			<direction>output</direction>
+			<query_name>bytesAllocated</query_name>
+		</BytesAllocated>
+		<BytesAvailable>
+			<name>BytesAvailable</name>
+			<direction>output</direction>
+			<query_name>bytesAvailable</query_name>
+		</BytesAvailable>
+		<BytesInReclamation>
+			<name>BytesInReclamation</name>
+			<direction>output</direction>
+			<query_name>bytesInReclamation</query_name>
+		</BytesInReclamation>
+		<BytesTotal>
+			<name>BytesTotal</name>
+			<direction>output</direction>
+			<query_name>bytesTotal</query_name>
+		</BytesTotal>
+	</fields>
+</interface>

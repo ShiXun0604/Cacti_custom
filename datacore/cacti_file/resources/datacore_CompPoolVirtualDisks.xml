@@ -1,0 +1,56 @@
+<interface>
+	<name>Get datacore pool virtual disk sources conbination data</name>
+	<script_path>|path_cacti|/scripts/ss_datacore_CompPoolVirtualDisks.php</script_path>
+    <script_function>ss_datacore_CompPoolVirtualDisks</script_function>
+ 	<script_server>php</script_server>
+	<arg_prepend>|host_hostname| |host_id| |host_snmp_version|:|host_snmp_port|:|host_snmp_timeout|:|host_ping_retries|:|host_max_oids|:|host_snmp_community|:|host_snmp_username|:|host_snmp_password|:|host_snmp_auth_protocol|:|host_snmp_priv_passphrase|:|host_snmp_priv_protocol|:|host_snmp_context|</arg_prepend>
+	<arg_index>index</arg_index>
+	<arg_query>query</arg_query>
+	<arg_get>get</arg_get>
+	<arg_num_indexes>num_indexes</arg_num_indexes>
+	<output_delimiter>!</output_delimiter>
+	<index_order>Name</index_order>
+	<index_order_type>numeric</index_order_type>
+	<index_title_format>|chosen_order_field|</index_title_format>
+
+	<fields>
+        <Name>
+            <name>Name</name>
+			<direction>input</direction>
+			<query_name>index</query_name>
+        </Name>
+		
+		<Server1Desr>
+			<name>Server1Desr</name>
+			<direction>input</direction>
+			<query_name>server1Desr</query_name>
+		</Server1Desr>
+		<Server2Desr>
+			<name>Server2Desr</name>
+			<direction>input</direction>
+			<query_name>server2Desr</query_name>
+		</Server2Desr>
+
+		<AverageReadTimeServer1>
+			<name>AverageReadTimeServer1</name>
+			<direction>output</direction>
+			<query_name>averageReadTimeServer1</query_name>
+		</AverageReadTimeServer1>
+		<AverageReadTimeServer2>
+			<name>AverageReadTimeServer2</name>
+			<direction>output</direction>
+			<query_name>averageReadTimeServer2</query_name>
+		</AverageReadTimeServer2>
+
+		<AverageWriteTimeServer1>
+			<name>AverageWriteTimeServer1</name>
+			<direction>output</direction>
+			<query_name>averageWriteTimeServer1</query_name>
+		</AverageWriteTimeServer1>
+		<AverageWriteTimeServer2>
+			<name>AverageWriteTimeServer2</name>
+			<direction>output</direction>
+			<query_name>averageWriteTimeServer2</query_name>
+		</AverageWriteTimeServer2>
+	</fields>
+</interface>
