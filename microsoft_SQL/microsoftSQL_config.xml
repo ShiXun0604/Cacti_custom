@@ -1,0 +1,20 @@
+<monitoredMySQL>
+    <MysqlSetting>
+        <host>localhost</host>
+        <user>ShiXun</user>
+        <pwd>password</pwd>
+        <database>cacti_customize</database>
+        <table>microsoftsql</table>
+        <primaryKey>IP</primaryKey>
+    </MysqlSetting>
+    <monitorConfig>
+        <logPath>C:\cacti_expertos\microsoftSQL\log</logPath>
+    </monitorConfig>
+    <targetList>
+        <target>
+            <IP>10.5.5.191</IP>
+            <user>ShiXun</user>
+            <pwd>password</pwd>
+        </target>
+    </targetList>
+</monitoredMySQL>

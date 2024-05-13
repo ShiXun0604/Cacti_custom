@@ -1,0 +1,594 @@
+[2024-05-10 00:04:01,220 INFO    ] Program started.
+[2024-05-10 00:04:01,236 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:04:01,377 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:09:01,281 INFO    ] Program started.
+[2024-05-10 00:09:01,312 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:09:01,437 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:14:01,253 INFO    ] Program started.
+[2024-05-10 00:14:01,269 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:14:01,410 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:19:01,265 INFO    ] Program started.
+[2024-05-10 00:19:01,297 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:19:01,422 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:24:01,294 INFO    ] Program started.
+[2024-05-10 00:24:01,326 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:24:01,451 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:29:01,288 INFO    ] Program started.
+[2024-05-10 00:29:01,319 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:29:01,444 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:34:01,324 INFO    ] Program started.
+[2024-05-10 00:34:01,356 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:34:01,496 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:39:01,294 INFO    ] Program started.
+[2024-05-10 00:39:01,325 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:39:01,466 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:44:01,265 INFO    ] Program started.
+[2024-05-10 00:44:01,296 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:44:01,421 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:49:01,302 INFO    ] Program started.
+[2024-05-10 00:49:01,334 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:49:01,474 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:54:01,328 INFO    ] Program started.
+[2024-05-10 00:54:01,359 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:54:01,500 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 00:59:01,296 INFO    ] Program started.
+[2024-05-10 00:59:01,328 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:59:01,453 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:04:01,352 INFO    ] Program started.
+[2024-05-10 01:04:01,368 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:04:01,509 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:09:01,348 INFO    ] Program started.
+[2024-05-10 01:09:01,379 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:09:01,504 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:14:01,341 INFO    ] Program started.
+[2024-05-10 01:14:01,373 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:14:01,513 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:19:01,356 INFO    ] Program started.
+[2024-05-10 01:19:01,403 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:19:01,528 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:24:01,365 INFO    ] Program started.
+[2024-05-10 01:24:01,381 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:24:01,522 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:29:01,371 INFO    ] Program started.
+[2024-05-10 01:29:01,402 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:29:01,527 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:34:01,397 INFO    ] Program started.
+[2024-05-10 01:34:01,428 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:34:01,568 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:39:01,393 INFO    ] Program started.
+[2024-05-10 01:39:01,424 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:39:01,550 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:44:00,351 INFO    ] Program started.
+[2024-05-10 01:44:00,382 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:44:00,522 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:49:00,372 INFO    ] Program started.
+[2024-05-10 01:49:00,388 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:49:00,528 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:54:00,366 INFO    ] Program started.
+[2024-05-10 01:54:00,397 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:54:00,538 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 01:59:00,421 INFO    ] Program started.
+[2024-05-10 01:59:00,453 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:59:00,578 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:04:00,391 INFO    ] Program started.
+[2024-05-10 02:04:00,422 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:04:00,563 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:09:00,391 INFO    ] Program started.
+[2024-05-10 02:09:00,406 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:09:00,547 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:14:00,386 INFO    ] Program started.
+[2024-05-10 02:14:00,433 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:14:00,589 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:19:00,420 INFO    ] Program started.
+[2024-05-10 02:19:00,451 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:19:00,576 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:24:00,389 INFO    ] Program started.
+[2024-05-10 02:24:00,421 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:24:00,561 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:29:00,414 INFO    ] Program started.
+[2024-05-10 02:29:00,429 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:29:00,585 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:34:00,431 INFO    ] Program started.
+[2024-05-10 02:34:00,447 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:34:00,587 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:39:00,653 INFO    ] Program started.
+[2024-05-10 02:39:00,684 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:39:00,825 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:44:00,423 INFO    ] Program started.
+[2024-05-10 02:44:00,454 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:44:00,579 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:49:00,452 INFO    ] Program started.
+[2024-05-10 02:49:00,483 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:49:00,624 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:54:00,428 INFO    ] Program started.
+[2024-05-10 02:54:00,459 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:54:00,600 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 02:59:00,471 INFO    ] Program started.
+[2024-05-10 02:59:00,502 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:59:00,643 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:04:00,451 INFO    ] Program started.
+[2024-05-10 03:04:00,482 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:04:00,623 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:09:00,520 INFO    ] Program started.
+[2024-05-10 03:09:00,551 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:09:00,708 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:14:00,485 INFO    ] Program started.
+[2024-05-10 03:14:00,516 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:14:00,641 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:19:00,487 INFO    ] Program started.
+[2024-05-10 03:19:00,503 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:19:00,644 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:24:00,475 INFO    ] Program started.
+[2024-05-10 03:24:00,522 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:24:00,647 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:29:00,488 INFO    ] Program started.
+[2024-05-10 03:29:00,519 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:29:00,659 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:34:00,502 INFO    ] Program started.
+[2024-05-10 03:34:00,533 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:34:00,674 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:39:00,511 INFO    ] Program started.
+[2024-05-10 03:39:00,543 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:39:00,683 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:44:00,555 INFO    ] Program started.
+[2024-05-10 03:44:00,586 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:44:00,711 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:49:00,562 INFO    ] Program started.
+[2024-05-10 03:49:00,593 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:49:00,718 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:54:00,549 INFO    ] Program started.
+[2024-05-10 03:54:00,580 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:54:00,737 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 03:59:00,549 INFO    ] Program started.
+[2024-05-10 03:59:00,580 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:59:00,706 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:04:00,542 INFO    ] Program started.
+[2024-05-10 04:04:00,589 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:04:00,730 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:09:00,571 INFO    ] Program started.
+[2024-05-10 04:09:00,586 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:09:00,727 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:14:00,572 INFO    ] Program started.
+[2024-05-10 04:14:00,603 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:14:00,728 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:19:00,579 INFO    ] Program started.
+[2024-05-10 04:19:00,611 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:19:00,736 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:24:00,582 INFO    ] Program started.
+[2024-05-10 04:24:00,613 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:24:00,754 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:29:00,600 INFO    ] Program started.
+[2024-05-10 04:29:00,631 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:29:00,787 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:34:00,606 INFO    ] Program started.
+[2024-05-10 04:34:00,637 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:34:00,793 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:39:00,594 INFO    ] Program started.
+[2024-05-10 04:39:00,626 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:39:00,751 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:44:00,629 INFO    ] Program started.
+[2024-05-10 04:44:00,661 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:44:00,786 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:49:00,641 INFO    ] Program started.
+[2024-05-10 04:49:00,673 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:49:00,798 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:54:00,664 INFO    ] Program started.
+[2024-05-10 04:54:00,695 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:54:00,820 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 04:59:00,661 INFO    ] Program started.
+[2024-05-10 04:59:00,692 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:59:00,817 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:04:00,651 INFO    ] Program started.
+[2024-05-10 05:04:00,682 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:04:00,823 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:09:00,638 INFO    ] Program started.
+[2024-05-10 05:09:00,669 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:09:00,794 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:14:00,657 INFO    ] Program started.
+[2024-05-10 05:14:00,688 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:14:00,829 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:19:00,692 INFO    ] Program started.
+[2024-05-10 05:19:00,739 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:19:00,864 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:24:00,686 INFO    ] Program started.
+[2024-05-10 05:24:00,733 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:24:00,873 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:29:00,678 INFO    ] Program started.
+[2024-05-10 05:29:00,709 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:29:00,865 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:34:00,736 INFO    ] Program started.
+[2024-05-10 05:34:00,783 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:34:00,923 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:39:00,763 INFO    ] Program started.
+[2024-05-10 05:39:00,810 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:39:00,951 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:44:00,766 INFO    ] Program started.
+[2024-05-10 05:44:00,798 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:44:00,954 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:49:00,724 INFO    ] Program started.
+[2024-05-10 05:49:00,771 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:49:00,896 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:54:00,771 INFO    ] Program started.
+[2024-05-10 05:54:00,802 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:54:00,943 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 05:59:00,764 INFO    ] Program started.
+[2024-05-10 05:59:00,811 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:59:00,936 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:04:00,795 INFO    ] Program started.
+[2024-05-10 06:04:00,826 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:04:00,982 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:09:00,782 INFO    ] Program started.
+[2024-05-10 06:09:00,814 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:09:00,954 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:14:00,801 INFO    ] Program started.
+[2024-05-10 06:14:00,832 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:14:00,972 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:19:00,797 INFO    ] Program started.
+[2024-05-10 06:19:00,828 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:19:00,968 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:24:00,832 INFO    ] Program started.
+[2024-05-10 06:24:00,863 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:24:01,004 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:29:00,845 INFO    ] Program started.
+[2024-05-10 06:29:00,876 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:29:01,001 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:34:00,833 INFO    ] Program started.
+[2024-05-10 06:34:00,864 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:34:01,005 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:39:00,853 INFO    ] Program started.
+[2024-05-10 06:39:00,884 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:39:01,041 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:44:00,863 INFO    ] Program started.
+[2024-05-10 06:44:00,894 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:44:01,050 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:49:00,838 INFO    ] Program started.
+[2024-05-10 06:49:00,870 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:49:01,010 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:54:00,846 INFO    ] Program started.
+[2024-05-10 06:54:00,877 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:54:01,017 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 06:59:00,863 INFO    ] Program started.
+[2024-05-10 06:59:00,910 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:59:01,035 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:04:00,896 INFO    ] Program started.
+[2024-05-10 07:04:00,927 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:04:01,068 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:09:00,903 INFO    ] Program started.
+[2024-05-10 07:09:00,935 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:09:01,075 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:14:00,886 INFO    ] Program started.
+[2024-05-10 07:14:00,918 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:14:01,058 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:19:00,895 INFO    ] Program started.
+[2024-05-10 07:19:00,927 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:19:01,052 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:24:00,951 INFO    ] Program started.
+[2024-05-10 07:24:00,982 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:24:01,123 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:29:00,936 INFO    ] Program started.
+[2024-05-10 07:29:00,983 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:29:01,108 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:34:00,916 INFO    ] Program started.
+[2024-05-10 07:34:00,948 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:34:01,073 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:39:00,936 INFO    ] Program started.
+[2024-05-10 07:39:00,967 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:39:01,139 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:44:00,967 INFO    ] Program started.
+[2024-05-10 07:44:01,014 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:44:01,154 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:49:01,001 INFO    ] Program started.
+[2024-05-10 07:49:01,032 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:49:01,173 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:54:00,982 INFO    ] Program started.
+[2024-05-10 07:54:01,029 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:54:01,169 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 07:59:00,975 INFO    ] Program started.
+[2024-05-10 07:59:01,006 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:59:01,178 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:04:00,996 INFO    ] Program started.
+[2024-05-10 08:04:01,027 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:04:01,168 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:09:01,004 INFO    ] Program started.
+[2024-05-10 08:09:01,051 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:09:01,191 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:14:01,026 INFO    ] Program started.
+[2024-05-10 08:14:01,073 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:14:01,213 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:19:01,033 INFO    ] Program started.
+[2024-05-10 08:19:01,065 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:19:01,205 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:24:01,002 INFO    ] Program started.
+[2024-05-10 08:24:01,034 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:24:01,174 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:29:01,055 INFO    ] Program started.
+[2024-05-10 08:29:01,087 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:29:01,227 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:34:01,037 INFO    ] Program started.
+[2024-05-10 08:34:01,068 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:34:01,209 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:39:01,160 INFO    ] Program started.
+[2024-05-10 08:39:01,191 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:39:01,347 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:44:01,051 INFO    ] Program started.
+[2024-05-10 08:44:01,083 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:44:01,208 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:49:01,046 INFO    ] Program started.
+[2024-05-10 08:49:01,078 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:49:01,218 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:54:01,094 INFO    ] Program started.
+[2024-05-10 08:54:01,126 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:54:01,266 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 08:59:01,090 INFO    ] Program started.
+[2024-05-10 08:59:01,122 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:59:01,247 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:04:01,104 INFO    ] Program started.
+[2024-05-10 09:04:01,135 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:04:01,276 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:09:01,100 INFO    ] Program started.
+[2024-05-10 09:09:01,147 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:09:01,272 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:14:01,136 INFO    ] Program started.
+[2024-05-10 09:14:01,167 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:14:01,308 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:19:01,177 INFO    ] Program started.
+[2024-05-10 09:19:01,208 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:19:01,349 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:24:01,139 INFO    ] Program started.
+[2024-05-10 09:24:01,170 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:24:01,310 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:29:01,110 INFO    ] Program started.
+[2024-05-10 09:29:01,157 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:29:01,282 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:34:01,154 INFO    ] Program started.
+[2024-05-10 09:34:01,185 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:34:01,325 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:39:01,155 INFO    ] Program started.
+[2024-05-10 09:39:01,184 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:39:01,313 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:44:01,140 INFO    ] Program started.
+[2024-05-10 09:44:01,172 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:44:01,328 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:49:01,187 INFO    ] Program started.
+[2024-05-10 09:49:01,219 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:49:01,364 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:54:01,156 INFO    ] Program started.
+[2024-05-10 09:54:01,187 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:54:01,328 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 09:59:01,172 INFO    ] Program started.
+[2024-05-10 09:59:01,203 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:59:01,328 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:04:01,249 INFO    ] Program started.
+[2024-05-10 10:04:01,280 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:04:01,421 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:09:01,242 INFO    ] Program started.
+[2024-05-10 10:09:01,273 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:09:01,398 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:14:01,259 INFO    ] Program started.
+[2024-05-10 10:14:01,290 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:14:01,415 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:19:01,220 INFO    ] Program started.
+[2024-05-10 10:19:01,251 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:19:01,376 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:24:01,203 INFO    ] Program started.
+[2024-05-10 10:24:01,235 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:24:01,375 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:29:01,230 INFO    ] Program started.
+[2024-05-10 10:29:01,261 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:29:01,386 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:34:01,227 INFO    ] Program started.
+[2024-05-10 10:34:01,258 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:34:01,399 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:39:01,227 INFO    ] Program started.
+[2024-05-10 10:39:01,258 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:39:01,399 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:44:01,244 INFO    ] Program started.
+[2024-05-10 10:44:01,275 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:44:01,400 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:49:01,280 INFO    ] Program started.
+[2024-05-10 10:49:01,311 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:49:01,436 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:54:01,265 INFO    ] Program started.
+[2024-05-10 10:54:01,296 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:54:01,437 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 10:59:01,315 INFO    ] Program started.
+[2024-05-10 10:59:01,347 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:59:01,487 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:04:01,272 INFO    ] Program started.
+[2024-05-10 11:04:01,303 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:04:01,428 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:09:01,273 INFO    ] Program started.
+[2024-05-10 11:09:01,304 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:09:01,445 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:14:01,245 INFO    ] Program started.
+[2024-05-10 11:14:01,277 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:14:01,417 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:19:01,271 INFO    ] Program started.
+[2024-05-10 11:19:01,318 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:19:01,443 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:24:01,266 INFO    ] Program started.
+[2024-05-10 11:24:01,297 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:24:01,438 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:29:01,299 INFO    ] Program started.
+[2024-05-10 11:29:01,331 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:29:01,456 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:34:01,308 INFO    ] Program started.
+[2024-05-10 11:34:01,339 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:34:01,464 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:39:01,333 INFO    ] Program started.
+[2024-05-10 11:39:01,364 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:39:01,490 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:44:01,343 INFO    ] Program started.
+[2024-05-10 11:44:01,374 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:44:01,515 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:49:01,297 INFO    ] Program started.
+[2024-05-10 11:49:01,328 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:49:01,469 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:54:01,309 INFO    ] Program started.
+[2024-05-10 11:54:01,340 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:54:01,465 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 11:59:01,382 INFO    ] Program started.
+[2024-05-10 11:59:01,413 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:59:01,538 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:04:01,378 INFO    ] Program started.
+[2024-05-10 12:04:01,393 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:04:01,534 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:09:01,372 INFO    ] Program started.
+[2024-05-10 12:09:01,404 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:09:01,529 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:14:01,360 INFO    ] Program started.
+[2024-05-10 12:14:01,407 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:14:01,532 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:19:01,370 INFO    ] Program started.
+[2024-05-10 12:19:01,401 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:19:01,698 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:24:01,357 INFO    ] Program started.
+[2024-05-10 12:24:01,389 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:24:01,529 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:29:01,351 INFO    ] Program started.
+[2024-05-10 12:29:01,397 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:29:01,522 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:34:01,417 INFO    ] Program started.
+[2024-05-10 12:34:01,448 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:34:01,589 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:39:01,406 INFO    ] Program started.
+[2024-05-10 12:39:01,437 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:39:01,562 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:44:01,403 INFO    ] Program started.
+[2024-05-10 12:44:01,434 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:44:01,559 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:49:01,393 INFO    ] Program started.
+[2024-05-10 12:49:01,425 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:49:01,550 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:54:00,391 INFO    ] Program started.
+[2024-05-10 12:54:00,422 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:54:00,547 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 12:59:00,372 INFO    ] Program started.
+[2024-05-10 12:59:00,419 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:59:00,559 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:04:00,401 INFO    ] Program started.
+[2024-05-10 13:04:00,432 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:04:00,557 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:09:00,422 INFO    ] Program started.
+[2024-05-10 13:09:00,453 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:09:00,578 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:14:00,429 INFO    ] Program started.
+[2024-05-10 13:14:00,460 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:14:00,601 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:19:00,415 INFO    ] Program started.
+[2024-05-10 13:19:00,446 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:19:00,587 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:24:00,424 INFO    ] Program started.
+[2024-05-10 13:24:00,471 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:24:00,596 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:29:00,451 INFO    ] Program started.
+[2024-05-10 13:29:00,482 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:29:00,607 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:34:00,443 INFO    ] Program started.
+[2024-05-10 13:34:00,475 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:34:00,615 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:39:01,123 INFO    ] Program started.
+[2024-05-10 13:39:01,170 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:39:01,295 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:44:00,538 INFO    ] Program started.
+[2024-05-10 13:44:00,570 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:44:00,710 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:49:00,484 INFO    ] Program started.
+[2024-05-10 13:49:00,515 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:49:00,640 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:54:00,474 INFO    ] Program started.
+[2024-05-10 13:54:00,506 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:54:00,631 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 13:59:00,486 INFO    ] Program started.
+[2024-05-10 13:59:00,517 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:59:00,673 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:04:00,516 INFO    ] Program started.
+[2024-05-10 14:04:00,563 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:04:00,688 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:09:00,499 INFO    ] Program started.
+[2024-05-10 14:09:00,531 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:09:00,671 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:14:00,541 INFO    ] Program started.
+[2024-05-10 14:14:00,588 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:14:00,713 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:19:00,530 INFO    ] Program started.
+[2024-05-10 14:19:00,561 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:19:00,686 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:24:00,529 INFO    ] Program started.
+[2024-05-10 14:24:00,560 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:24:00,717 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:29:00,530 INFO    ] Program started.
+[2024-05-10 14:29:00,561 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:29:00,702 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:34:00,532 INFO    ] Program started.
+[2024-05-10 14:34:00,564 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:34:00,689 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:39:00,533 INFO    ] Program started.
+[2024-05-10 14:39:00,564 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:39:00,689 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:44:00,562 INFO    ] Program started.
+[2024-05-10 14:44:00,593 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:44:00,734 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:49:00,558 INFO    ] Program started.
+[2024-05-10 14:49:00,605 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:49:00,745 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:54:00,597 INFO    ] Program started.
+[2024-05-10 14:54:00,628 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:54:00,768 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 14:59:00,628 INFO    ] Program started.
+[2024-05-10 14:59:00,660 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:59:00,800 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:04:00,579 INFO    ] Program started.
+[2024-05-10 15:04:00,610 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:04:00,750 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:09:00,612 INFO    ] Program started.
+[2024-05-10 15:09:00,659 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:09:00,784 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:14:00,621 INFO    ] Program started.
+[2024-05-10 15:14:00,668 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:14:00,793 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:19:00,623 INFO    ] Program started.
+[2024-05-10 15:19:00,655 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:19:00,780 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:24:00,610 INFO    ] Program started.
+[2024-05-10 15:24:00,641 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:24:00,766 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:29:00,597 INFO    ] Program started.
+[2024-05-10 15:29:00,644 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:29:00,754 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:34:00,639 INFO    ] Program started.
+[2024-05-10 15:34:00,670 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:34:00,795 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:39:00,667 INFO    ] Program started.
+[2024-05-10 15:39:00,698 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:39:00,823 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:44:00,688 INFO    ] Program started.
+[2024-05-10 15:44:00,719 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:44:00,844 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:49:00,642 INFO    ] Program started.
+[2024-05-10 15:49:00,674 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:49:00,799 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:54:00,690 INFO    ] Program started.
+[2024-05-10 15:54:00,721 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:54:00,846 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 15:59:00,644 INFO    ] Program started.
+[2024-05-10 15:59:00,660 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:59:00,801 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 16:04:00,692 INFO    ] Program started.
+[2024-05-10 16:04:00,723 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:04:00,864 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 16:09:00,658 INFO    ] Program started.
+[2024-05-10 16:09:00,705 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:09:00,830 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 16:14:00,671 INFO    ] Program started.
+[2024-05-10 16:14:00,702 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:14:00,827 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 16:19:00,688 INFO    ] Program started.
+[2024-05-10 16:19:00,719 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:19:00,844 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 16:24:00,703 INFO    ] Program started.
+[2024-05-10 16:24:00,735 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:24:00,875 DEBUG   ] Mysql data update success. Updated data count:1
+[2024-05-10 16:29:00,694 INFO    ] Program started.
+[2024-05-10 16:29:00,725 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:29:00,882 DEBUG   ] Mysql data update success. Updated data count:1

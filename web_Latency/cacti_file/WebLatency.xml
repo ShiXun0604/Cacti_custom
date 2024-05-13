@@ -1,0 +1,38 @@
+<interface>
+	<name>Ping host</name>
+	<script_path>|path_cacti|/scripts/ss_WebLatency.php</script_path>
+    <script_function>ss_webLatency</script_function>
+ 	<script_server>php</script_server>
+	<arg_prepend>|host_hostname| |host_id| |host_snmp_version|:|host_snmp_port|:|host_snmp_timeout|:|host_ping_retries|:|host_max_oids|:|host_snmp_community|:|host_snmp_username|:|host_snmp_password|:|host_snmp_auth_protocol|:|host_snmp_priv_passphrase|:|host_snmp_priv_protocol|:|host_snmp_context|</arg_prepend>
+	<arg_index>index</arg_index>
+	<arg_query>query</arg_query>
+	<arg_get>get</arg_get>
+	<arg_num_indexes>num_indexes</arg_num_indexes>
+	<output_delimiter>!</output_delimiter>
+	<index_order>URL</index_order>
+	<index_order_type>numeric</index_order_type>
+	<index_title_format>|chosen_order_field|</index_title_format>
+
+	<fields>
+        <URL>
+            <name>URL</name>
+			<direction>input</direction>
+			<query_name>url</query_name>
+        </URL>
+		<KeyWord>
+			<name>KeyWord</name>
+			<direction>input</direction>
+			<query_name>keyword</query_name>
+		</KeyWord>
+        <Latency>
+			<name>Latency</name>
+			<direction>output</direction>
+			<query_name>latency</query_name>
+		</Latency>
+		<Timeout>
+			<name>Timeout</name>
+			<direction>input-output</direction>
+			<query_name>timeout</query_name>
+		</Timeout>
+	</fields>
+</interface>

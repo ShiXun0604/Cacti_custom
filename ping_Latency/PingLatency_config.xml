@@ -1,0 +1,26 @@
+<PingLatency>
+    <MysqlSetting>
+        <host>localhost</host>
+        <user>ShiXun</user>
+        <pwd>password</pwd>
+        <database>cacti_customize</database>
+        <table>pinglatency</table>
+        <primaryKey>IP</primaryKey>
+    </MysqlSetting>
+    <monitorConfig>
+        <systemLanguage>English</systemLanguage>
+        <averageInterval>10</averageInterval>
+        <logPath>C:\cacti_expertos\PingLatency\log</logPath>
+    </monitorConfig>
+    <targetList>
+        <target>
+            <IP>google.com</IP>
+        </target>
+        <target>
+            <IP>apple.com</IP>
+        </target>
+        <target>
+            <IP>10.5.5.254</IP>
+        </target>
+    </targetList>
+</PingLatency>

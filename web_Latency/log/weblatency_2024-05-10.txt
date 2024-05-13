@@ -1,0 +1,2376 @@
+[2024-05-10 00:04:00,955 INFO    ] Program started.
+[2024-05-10 00:04:00,986 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:04:01,033 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:04:01,033 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:04:01,033 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:04:01,095 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:04:01,095 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:04:01,127 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:04:01,173 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:04:02,086 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:04:02,117 DEBUG   ] MySQL login successful.
+[2024-05-10 00:04:02,117 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:09:00,999 INFO    ] Program started.
+[2024-05-10 00:09:01,031 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:09:01,077 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:09:01,077 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:09:01,077 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:09:01,140 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:09:01,140 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:09:01,187 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:09:01,187 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:09:01,234 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:09:01,249 DEBUG   ] MySQL login successful.
+[2024-05-10 00:09:01,249 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:14:00,988 INFO    ] Program started.
+[2024-05-10 00:14:01,019 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:14:01,066 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:14:01,066 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:14:01,066 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:14:01,129 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:14:01,129 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:14:01,160 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:14:01,175 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:14:01,206 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:14:01,222 DEBUG   ] MySQL login successful.
+[2024-05-10 00:14:01,222 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:19:01,047 INFO    ] Program started.
+[2024-05-10 00:19:01,078 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:19:01,109 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:19:01,125 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:19:01,125 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:19:01,172 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:19:01,172 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:19:01,250 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:19:01,250 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:19:01,437 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:19:01,469 DEBUG   ] MySQL login successful.
+[2024-05-10 00:19:01,469 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:24:01,029 INFO    ] Program started.
+[2024-05-10 00:24:01,060 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:24:01,091 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:24:01,091 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:24:01,091 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:24:01,169 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:24:01,169 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:24:01,201 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:24:01,216 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:24:01,247 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:24:01,263 DEBUG   ] MySQL login successful.
+[2024-05-10 00:24:01,263 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:29:01,038 INFO    ] Program started.
+[2024-05-10 00:29:01,069 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:29:01,101 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:29:01,132 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:29:01,132 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:29:01,194 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:29:01,194 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:29:01,210 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:29:01,257 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:29:01,272 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:29:01,288 DEBUG   ] MySQL login successful.
+[2024-05-10 00:29:01,288 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:34:01,106 INFO    ] Program started.
+[2024-05-10 00:34:01,137 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:34:01,168 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:34:01,168 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:34:01,168 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:34:01,231 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:34:01,231 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:34:01,277 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:34:01,324 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:34:01,715 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:34:01,762 DEBUG   ] MySQL login successful.
+[2024-05-10 00:34:01,762 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:39:01,060 INFO    ] Program started.
+[2024-05-10 00:39:01,091 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:39:01,122 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:39:01,122 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:39:01,122 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:39:01,169 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:39:01,169 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:39:01,216 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:39:01,263 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:39:01,404 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:39:01,419 DEBUG   ] MySQL login successful.
+[2024-05-10 00:39:01,419 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:44:01,046 INFO    ] Program started.
+[2024-05-10 00:44:01,062 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:44:01,093 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:44:01,093 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:44:01,093 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:44:01,171 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:44:01,171 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:44:01,203 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:44:01,249 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:44:01,359 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:44:01,374 DEBUG   ] MySQL login successful.
+[2024-05-10 00:44:01,374 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:49:01,068 INFO    ] Program started.
+[2024-05-10 00:49:01,099 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:49:01,130 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:49:01,130 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:49:01,130 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:49:01,193 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:49:01,193 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:49:01,224 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:49:01,240 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:49:01,287 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:49:01,302 DEBUG   ] MySQL login successful.
+[2024-05-10 00:49:01,302 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:54:01,062 INFO    ] Program started.
+[2024-05-10 00:54:01,094 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:54:01,125 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:54:01,125 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:54:01,156 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:54:01,234 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:54:01,234 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:54:01,281 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:54:01,328 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:54:01,437 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:54:01,453 DEBUG   ] MySQL login successful.
+[2024-05-10 00:54:01,453 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 00:59:01,093 INFO    ] Program started.
+[2024-05-10 00:59:01,125 DEBUG   ] MySQL login test successful.
+[2024-05-10 00:59:01,171 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 00:59:01,171 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 00:59:01,171 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 00:59:01,218 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 00:59:01,234 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 00:59:01,312 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 00:59:01,312 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:59:01,500 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 00:59:01,515 DEBUG   ] MySQL login successful.
+[2024-05-10 00:59:01,515 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:04:01,071 INFO    ] Program started.
+[2024-05-10 01:04:01,102 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:04:01,134 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:04:01,134 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:04:01,134 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:04:01,196 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:04:01,196 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:04:01,227 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:04:01,259 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:04:01,274 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:04:01,290 DEBUG   ] MySQL login successful.
+[2024-05-10 01:04:01,290 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:09:01,098 INFO    ] Program started.
+[2024-05-10 01:09:01,129 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:09:01,161 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:09:01,161 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:09:01,161 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:09:01,223 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:09:01,239 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:09:01,270 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:09:01,270 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:09:01,317 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:09:01,332 DEBUG   ] MySQL login successful.
+[2024-05-10 01:09:01,332 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:14:01,138 INFO    ] Program started.
+[2024-05-10 01:14:01,169 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:14:01,201 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:14:01,201 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:14:01,201 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:14:01,263 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:14:01,263 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:14:01,294 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:14:01,294 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:14:01,357 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:14:01,357 DEBUG   ] MySQL login successful.
+[2024-05-10 01:14:01,373 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:19:01,169 INFO    ] Program started.
+[2024-05-10 01:19:01,184 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:19:01,231 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:19:01,231 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:19:01,231 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:19:01,294 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:19:01,294 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:19:01,309 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:19:01,325 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:19:01,372 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:19:01,387 DEBUG   ] MySQL login successful.
+[2024-05-10 01:19:01,387 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:24:01,162 INFO    ] Program started.
+[2024-05-10 01:24:01,193 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:24:01,209 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:24:01,225 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:24:01,225 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:24:01,272 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:24:01,272 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:24:01,303 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:24:01,334 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:24:01,365 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:24:01,381 DEBUG   ] MySQL login successful.
+[2024-05-10 01:24:01,381 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:29:01,121 INFO    ] Program started.
+[2024-05-10 01:29:01,152 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:29:01,183 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:29:01,183 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:29:01,183 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:29:01,230 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:29:01,230 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:29:01,308 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:29:01,324 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:29:01,449 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:29:01,465 DEBUG   ] MySQL login successful.
+[2024-05-10 01:29:01,465 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:34:01,193 INFO    ] Program started.
+[2024-05-10 01:34:01,225 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:34:01,256 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:34:01,256 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:34:01,256 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:34:01,350 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:34:01,350 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:34:01,397 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:34:01,443 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:34:01,537 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:34:01,553 DEBUG   ] MySQL login successful.
+[2024-05-10 01:34:01,553 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:39:01,159 INFO    ] Program started.
+[2024-05-10 01:39:01,190 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:39:01,221 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:39:01,221 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:39:01,221 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:39:01,268 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:39:01,268 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:39:01,299 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:39:01,299 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:39:01,346 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:39:01,362 DEBUG   ] MySQL login successful.
+[2024-05-10 01:39:01,362 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:44:01,179 INFO    ] Program started.
+[2024-05-10 01:44:01,210 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:44:01,241 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:44:01,241 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:44:01,241 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:44:01,304 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:44:01,319 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:44:01,335 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:44:01,382 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:44:01,397 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:44:01,413 DEBUG   ] MySQL login successful.
+[2024-05-10 01:44:01,413 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:49:01,185 INFO    ] Program started.
+[2024-05-10 01:49:01,216 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:49:01,247 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:49:01,247 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:49:01,247 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:49:01,294 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:49:01,294 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:49:01,341 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:49:01,372 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:49:01,388 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:49:01,388 DEBUG   ] MySQL login successful.
+[2024-05-10 01:49:01,388 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:54:01,194 INFO    ] Program started.
+[2024-05-10 01:54:01,209 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:54:01,241 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:54:01,241 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:54:01,241 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:54:01,303 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:54:01,303 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:54:01,366 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:54:01,397 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:54:01,522 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:54:01,538 DEBUG   ] MySQL login successful.
+[2024-05-10 01:54:01,538 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 01:59:01,171 INFO    ] Program started.
+[2024-05-10 01:59:01,203 DEBUG   ] MySQL login test successful.
+[2024-05-10 01:59:01,234 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 01:59:01,234 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 01:59:01,234 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 01:59:01,328 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 01:59:01,328 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 01:59:01,374 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 01:59:01,406 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:59:01,421 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 01:59:01,437 DEBUG   ] MySQL login successful.
+[2024-05-10 01:59:01,437 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:04:01,204 INFO    ] Program started.
+[2024-05-10 02:04:01,235 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:04:01,266 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:04:01,266 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:04:01,266 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:04:01,344 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:04:01,344 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:04:01,422 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:04:01,438 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:04:01,626 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:04:01,641 DEBUG   ] MySQL login successful.
+[2024-05-10 02:04:01,641 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:09:01,235 INFO    ] Program started.
+[2024-05-10 02:09:01,250 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:09:01,281 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:09:01,281 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:09:01,281 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:09:01,344 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:09:01,344 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:09:01,406 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:09:01,438 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:09:01,672 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:09:01,688 DEBUG   ] MySQL login successful.
+[2024-05-10 02:09:01,688 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:14:01,199 INFO    ] Program started.
+[2024-05-10 02:14:01,230 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:14:01,261 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:14:01,261 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:14:01,261 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:14:01,308 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:14:01,308 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:14:01,355 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:14:01,355 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:14:01,402 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:14:01,417 DEBUG   ] MySQL login successful.
+[2024-05-10 02:14:01,417 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:19:01,232 INFO    ] Program started.
+[2024-05-10 02:19:01,248 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:19:01,279 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:19:01,279 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:19:01,279 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:19:01,326 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:19:01,326 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:19:01,420 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:19:01,420 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:19:01,420 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:19:01,436 DEBUG   ] MySQL login successful.
+[2024-05-10 02:19:01,436 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:24:01,249 INFO    ] Program started.
+[2024-05-10 02:24:01,280 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:24:01,311 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:24:01,311 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:24:01,311 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:24:01,358 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:24:01,358 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:24:01,436 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:24:01,436 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:24:01,780 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:24:01,796 DEBUG   ] MySQL login successful.
+[2024-05-10 02:24:01,796 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:29:01,242 INFO    ] Program started.
+[2024-05-10 02:29:01,273 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:29:01,289 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:29:01,289 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:29:01,289 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:29:01,367 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:29:01,367 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:29:01,429 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:29:01,445 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:29:01,554 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:29:01,570 DEBUG   ] MySQL login successful.
+[2024-05-10 02:29:01,570 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:34:01,228 INFO    ] Program started.
+[2024-05-10 02:34:01,259 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:34:01,291 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:34:01,291 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:34:01,322 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:34:01,369 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:34:01,369 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:34:01,431 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:34:01,447 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:34:01,462 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:34:01,462 DEBUG   ] MySQL login successful.
+[2024-05-10 02:34:01,478 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:39:01,247 INFO    ] Program started.
+[2024-05-10 02:39:01,278 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:39:01,309 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:39:01,309 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:39:01,309 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:39:01,356 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:39:01,356 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:39:01,403 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:39:01,434 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:39:01,450 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:39:01,450 DEBUG   ] MySQL login successful.
+[2024-05-10 02:39:01,450 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:44:01,251 INFO    ] Program started.
+[2024-05-10 02:44:01,282 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:44:01,313 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:44:01,313 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:44:01,313 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:44:01,392 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:44:01,392 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:44:01,423 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:44:01,486 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:44:01,595 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:44:01,610 DEBUG   ] MySQL login successful.
+[2024-05-10 02:44:01,610 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:49:01,233 INFO    ] Program started.
+[2024-05-10 02:49:01,265 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:49:01,296 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:49:01,296 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:49:01,296 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:49:01,374 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:49:01,374 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:49:01,421 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:49:01,436 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:49:01,452 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:49:01,452 DEBUG   ] MySQL login successful.
+[2024-05-10 02:49:01,452 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:54:01,288 INFO    ] Program started.
+[2024-05-10 02:54:01,319 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:54:01,350 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:54:01,350 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:54:01,350 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:54:01,413 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:54:01,413 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:54:01,459 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:54:01,491 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:54:01,491 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:54:01,506 DEBUG   ] MySQL login successful.
+[2024-05-10 02:54:01,522 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 02:59:01,252 INFO    ] Program started.
+[2024-05-10 02:59:01,284 DEBUG   ] MySQL login test successful.
+[2024-05-10 02:59:01,315 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 02:59:01,315 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 02:59:01,315 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 02:59:01,362 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 02:59:01,362 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 02:59:01,455 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 02:59:01,674 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:59:01,737 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 02:59:01,752 DEBUG   ] MySQL login successful.
+[2024-05-10 02:59:01,752 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:04:01,279 INFO    ] Program started.
+[2024-05-10 03:04:01,295 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:04:01,326 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:04:01,326 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:04:01,326 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:04:01,373 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:04:01,373 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:04:01,451 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:04:01,466 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:04:01,529 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:04:01,545 DEBUG   ] MySQL login successful.
+[2024-05-10 03:04:01,545 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:09:01,364 INFO    ] Program started.
+[2024-05-10 03:09:01,395 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:09:01,426 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:09:01,426 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:09:01,426 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:09:01,473 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:09:01,473 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:09:01,551 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:09:01,645 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:09:01,989 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:09:02,004 DEBUG   ] MySQL login successful.
+[2024-05-10 03:09:02,020 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:14:01,313 INFO    ] Program started.
+[2024-05-10 03:14:01,344 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:14:01,375 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:14:01,375 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:14:01,375 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:14:01,438 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:14:01,438 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:14:01,469 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:14:01,485 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:14:01,532 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:14:01,547 DEBUG   ] MySQL login successful.
+[2024-05-10 03:14:01,547 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:19:01,315 INFO    ] Program started.
+[2024-05-10 03:19:01,331 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:19:01,362 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:19:01,362 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:19:01,362 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:19:01,425 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:19:01,425 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:19:01,503 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:19:01,519 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:19:01,659 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:19:01,675 DEBUG   ] MySQL login successful.
+[2024-05-10 03:19:01,690 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:24:01,319 INFO    ] Program started.
+[2024-05-10 03:24:01,350 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:24:01,381 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:24:01,381 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:24:01,381 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:24:01,459 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:24:01,459 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:24:01,506 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:24:01,537 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:24:01,537 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:24:01,553 DEBUG   ] MySQL login successful.
+[2024-05-10 03:24:01,553 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:29:01,316 INFO    ] Program started.
+[2024-05-10 03:29:01,347 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:29:01,378 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:29:01,378 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:29:01,378 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:29:01,425 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:29:01,425 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:29:01,503 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:29:01,519 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:29:01,534 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:29:01,550 DEBUG   ] MySQL login successful.
+[2024-05-10 03:29:01,550 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:34:01,330 INFO    ] Program started.
+[2024-05-10 03:34:01,362 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:34:01,393 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:34:01,393 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:34:01,393 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:34:01,440 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:34:01,440 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:34:01,518 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:34:01,518 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:34:01,596 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:34:01,612 DEBUG   ] MySQL login successful.
+[2024-05-10 03:34:01,612 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:39:01,371 INFO    ] Program started.
+[2024-05-10 03:39:01,402 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:39:01,433 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:39:01,433 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:39:01,433 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:39:01,480 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:39:01,480 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:39:01,527 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:39:01,558 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:39:01,558 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:39:01,574 DEBUG   ] MySQL login successful.
+[2024-05-10 03:39:01,574 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:44:01,352 INFO    ] Program started.
+[2024-05-10 03:44:01,367 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:44:01,414 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:44:01,414 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:44:01,414 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:44:01,461 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:44:01,461 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:44:01,492 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:44:01,539 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:44:01,539 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:44:01,555 DEBUG   ] MySQL login successful.
+[2024-05-10 03:44:01,555 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:49:01,390 INFO    ] Program started.
+[2024-05-10 03:49:01,421 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:49:01,453 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:49:01,453 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:49:01,453 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:49:01,500 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:49:01,515 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:49:01,578 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:49:01,593 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:49:01,671 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:49:01,687 DEBUG   ] MySQL login successful.
+[2024-05-10 03:49:01,687 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:54:01,362 INFO    ] Program started.
+[2024-05-10 03:54:01,377 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:54:01,409 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:54:01,409 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:54:01,409 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:54:01,471 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:54:01,471 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:54:01,502 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:54:01,549 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:54:01,643 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:54:01,659 DEBUG   ] MySQL login successful.
+[2024-05-10 03:54:01,659 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 03:59:01,377 INFO    ] Program started.
+[2024-05-10 03:59:01,409 DEBUG   ] MySQL login test successful.
+[2024-05-10 03:59:01,440 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 03:59:01,440 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 03:59:01,440 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 03:59:01,502 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 03:59:01,502 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 03:59:01,549 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:59:01,565 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 03:59:01,580 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 03:59:01,580 DEBUG   ] MySQL login successful.
+[2024-05-10 03:59:01,596 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:04:01,370 INFO    ] Program started.
+[2024-05-10 04:04:01,401 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:04:01,417 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:04:01,417 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:04:01,417 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:04:01,480 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:04:01,480 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:04:01,526 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:04:01,526 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:04:01,558 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:04:01,573 DEBUG   ] MySQL login successful.
+[2024-05-10 04:04:01,573 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:09:01,367 INFO    ] Program started.
+[2024-05-10 04:09:01,399 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:09:01,430 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:09:01,430 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:09:01,430 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:09:01,477 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:09:01,477 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:09:01,555 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:09:01,571 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:09:01,789 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:09:01,821 DEBUG   ] MySQL login successful.
+[2024-05-10 04:09:01,821 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:14:01,400 INFO    ] Program started.
+[2024-05-10 04:14:01,431 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:14:01,463 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:14:01,463 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:14:01,463 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:14:01,556 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:14:01,556 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:14:01,603 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:14:01,650 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:14:01,853 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:14:01,869 DEBUG   ] MySQL login successful.
+[2024-05-10 04:14:01,884 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:19:01,408 INFO    ] Program started.
+[2024-05-10 04:19:01,423 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:19:01,454 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:19:01,454 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:19:01,454 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:19:01,502 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:19:01,502 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:19:01,595 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:19:01,658 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:19:01,704 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:19:01,704 DEBUG   ] MySQL login successful.
+[2024-05-10 04:19:01,704 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:24:01,395 INFO    ] Program started.
+[2024-05-10 04:24:01,426 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:24:01,457 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:24:01,457 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:24:01,457 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:24:01,520 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:24:01,520 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:24:01,551 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:24:01,598 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:24:01,645 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:24:01,660 DEBUG   ] MySQL login successful.
+[2024-05-10 04:24:01,660 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:29:01,396 INFO    ] Program started.
+[2024-05-10 04:29:01,412 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:29:01,443 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:29:01,443 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:29:01,443 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:29:01,506 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:29:01,521 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:29:01,537 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:29:01,584 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:29:01,600 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:29:01,600 DEBUG   ] MySQL login successful.
+[2024-05-10 04:29:01,615 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:34:01,402 INFO    ] Program started.
+[2024-05-10 04:34:01,434 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:34:01,465 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:34:01,465 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:34:01,496 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:34:01,543 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:34:01,543 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:34:01,606 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:34:01,621 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:34:01,746 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:34:01,762 DEBUG   ] MySQL login successful.
+[2024-05-10 04:34:01,762 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:39:01,376 INFO    ] Program started.
+[2024-05-10 04:39:01,407 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:39:01,438 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:39:01,438 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:39:01,438 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:39:01,485 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:39:01,485 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:39:01,563 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:39:01,579 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:39:01,813 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:39:01,829 DEBUG   ] MySQL login successful.
+[2024-05-10 04:39:01,829 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:44:01,395 INFO    ] Program started.
+[2024-05-10 04:44:01,426 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:44:01,458 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:44:01,458 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:44:01,458 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:44:01,504 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:44:01,504 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:44:01,582 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:44:01,598 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:44:01,832 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:44:01,848 DEBUG   ] MySQL login successful.
+[2024-05-10 04:44:01,848 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:49:01,423 INFO    ] Program started.
+[2024-05-10 04:49:01,454 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:49:01,485 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:49:01,485 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:49:01,485 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:49:01,548 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:49:01,563 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:49:01,579 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:49:01,626 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:49:01,641 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:49:01,657 DEBUG   ] MySQL login successful.
+[2024-05-10 04:49:01,657 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:54:01,398 INFO    ] Program started.
+[2024-05-10 04:54:01,430 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:54:01,461 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:54:01,461 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:54:01,461 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:54:01,508 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:54:01,523 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:54:01,586 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:54:01,601 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:54:01,601 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:54:01,617 DEBUG   ] MySQL login successful.
+[2024-05-10 04:54:01,617 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 04:59:01,426 INFO    ] Program started.
+[2024-05-10 04:59:01,457 DEBUG   ] MySQL login test successful.
+[2024-05-10 04:59:01,489 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 04:59:01,489 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 04:59:01,489 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 04:59:01,536 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 04:59:01,536 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 04:59:01,598 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 04:59:01,614 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:59:01,739 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 04:59:01,754 DEBUG   ] MySQL login successful.
+[2024-05-10 04:59:01,754 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:04:01,417 INFO    ] Program started.
+[2024-05-10 05:04:01,448 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:04:01,479 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:04:01,479 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:04:01,479 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:04:01,526 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:04:01,526 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:04:01,604 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:04:01,620 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:04:01,745 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:04:01,760 DEBUG   ] MySQL login successful.
+[2024-05-10 05:04:01,776 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:09:01,435 INFO    ] Program started.
+[2024-05-10 05:09:01,451 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:09:01,498 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:09:01,498 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:09:01,498 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:09:01,544 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:09:01,544 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:09:01,591 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:09:01,623 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:09:01,951 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:09:01,951 DEBUG   ] MySQL login successful.
+[2024-05-10 05:09:01,966 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:14:01,454 INFO    ] Program started.
+[2024-05-10 05:14:01,501 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:14:01,547 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:14:01,547 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:14:01,547 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:14:01,610 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:14:01,610 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:14:01,672 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:14:01,704 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:14:01,766 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:14:01,782 DEBUG   ] MySQL login successful.
+[2024-05-10 05:14:01,782 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:19:01,427 INFO    ] Program started.
+[2024-05-10 05:19:01,458 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:19:01,489 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:19:01,489 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:19:01,489 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:19:01,536 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:19:01,552 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:19:01,598 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:19:01,614 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:19:01,630 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:19:01,645 DEBUG   ] MySQL login successful.
+[2024-05-10 05:19:01,645 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:24:01,436 INFO    ] Program started.
+[2024-05-10 05:24:01,467 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:24:01,498 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:24:01,498 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:24:01,498 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:24:01,545 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:24:01,545 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:24:01,592 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:24:01,639 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:24:01,780 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:24:01,780 DEBUG   ] MySQL login successful.
+[2024-05-10 05:24:01,780 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:29:01,444 INFO    ] Program started.
+[2024-05-10 05:29:01,490 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:29:01,522 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:29:01,522 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:29:01,522 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:29:01,569 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:29:01,584 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:29:01,615 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:29:01,647 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:29:01,647 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:29:01,678 DEBUG   ] MySQL login successful.
+[2024-05-10 05:29:01,678 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:34:01,470 INFO    ] Program started.
+[2024-05-10 05:34:01,501 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:34:01,533 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:34:01,533 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:34:01,533 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:34:01,579 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:34:01,579 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:34:01,642 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:34:01,673 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:34:01,783 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:34:01,798 DEBUG   ] MySQL login successful.
+[2024-05-10 05:34:01,814 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:39:01,466 INFO    ] Program started.
+[2024-05-10 05:39:01,497 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:39:01,529 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:39:01,529 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:39:01,529 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:39:01,576 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:39:01,576 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:39:01,622 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:39:01,654 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:39:01,966 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:39:01,982 DEBUG   ] MySQL login successful.
+[2024-05-10 05:39:01,982 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:44:01,485 INFO    ] Program started.
+[2024-05-10 05:44:01,517 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:44:01,532 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:44:01,532 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:44:01,532 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:44:01,595 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:44:01,595 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:44:01,642 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:44:01,673 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:44:01,673 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:44:01,688 DEBUG   ] MySQL login successful.
+[2024-05-10 05:44:01,688 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:49:01,474 INFO    ] Program started.
+[2024-05-10 05:49:01,506 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:49:01,537 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:49:01,537 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:49:01,537 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:49:01,599 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:49:01,599 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:49:01,615 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:49:01,646 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:49:01,693 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:49:01,693 DEBUG   ] MySQL login successful.
+[2024-05-10 05:49:01,709 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:54:01,505 INFO    ] Program started.
+[2024-05-10 05:54:01,521 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:54:01,568 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:54:01,568 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:54:01,568 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:54:01,599 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:54:01,615 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:54:01,646 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:54:01,693 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:54:01,818 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:54:01,834 DEBUG   ] MySQL login successful.
+[2024-05-10 05:54:01,834 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 05:59:01,514 INFO    ] Program started.
+[2024-05-10 05:59:01,545 DEBUG   ] MySQL login test successful.
+[2024-05-10 05:59:01,576 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 05:59:01,576 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 05:59:01,576 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 05:59:01,623 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 05:59:01,623 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 05:59:01,670 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:59:01,701 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 05:59:01,717 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 05:59:01,733 DEBUG   ] MySQL login successful.
+[2024-05-10 05:59:01,733 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:04:01,513 INFO    ] Program started.
+[2024-05-10 06:04:01,529 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:04:01,576 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:04:01,576 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:04:01,576 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:04:01,607 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:04:01,607 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:04:01,701 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:04:01,701 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:04:01,826 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:04:01,842 DEBUG   ] MySQL login successful.
+[2024-05-10 06:04:01,842 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:09:01,517 INFO    ] Program started.
+[2024-05-10 06:09:01,564 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:09:01,579 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:09:01,595 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:09:01,595 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:09:01,642 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:09:01,642 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:09:01,673 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:09:01,704 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:09:01,720 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:09:01,735 DEBUG   ] MySQL login successful.
+[2024-05-10 06:09:01,735 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:14:01,535 INFO    ] Program started.
+[2024-05-10 06:14:01,566 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:14:01,597 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:14:01,597 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:14:01,597 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:14:01,676 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:14:01,676 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:14:01,754 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:14:01,863 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:14:01,879 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:14:01,895 DEBUG   ] MySQL login successful.
+[2024-05-10 06:14:01,895 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:19:01,547 INFO    ] Program started.
+[2024-05-10 06:19:01,578 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:19:01,609 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:19:01,609 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:19:01,609 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:19:01,656 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:19:01,656 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:19:01,687 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:19:01,734 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:19:01,750 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:19:01,765 DEBUG   ] MySQL login successful.
+[2024-05-10 06:19:01,765 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:24:01,535 INFO    ] Program started.
+[2024-05-10 06:24:01,566 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:24:01,597 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:24:01,597 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:24:01,597 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:24:01,660 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:24:01,660 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:24:01,722 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:24:01,754 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:24:02,035 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:24:02,050 DEBUG   ] MySQL login successful.
+[2024-05-10 06:24:02,050 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:29:01,563 INFO    ] Program started.
+[2024-05-10 06:29:01,595 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:29:01,626 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:29:01,626 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:29:01,626 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:29:01,673 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:29:01,688 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:29:01,720 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:29:01,751 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:29:01,766 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:29:01,766 DEBUG   ] MySQL login successful.
+[2024-05-10 06:29:01,782 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:34:01,583 INFO    ] Program started.
+[2024-05-10 06:34:01,614 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:34:01,630 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:34:01,630 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:34:01,630 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:34:01,708 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:34:01,708 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:34:01,786 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:34:01,802 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:34:01,942 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:34:01,958 DEBUG   ] MySQL login successful.
+[2024-05-10 06:34:01,958 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:39:01,588 INFO    ] Program started.
+[2024-05-10 06:39:01,603 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:39:01,634 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:39:01,634 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:39:01,634 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:39:01,713 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:39:01,713 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:39:01,775 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:39:01,853 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:39:01,900 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:39:01,931 DEBUG   ] MySQL login successful.
+[2024-05-10 06:39:01,931 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:44:01,566 INFO    ] Program started.
+[2024-05-10 06:44:01,597 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:44:01,628 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:44:01,628 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:44:01,628 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:44:01,691 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:44:01,691 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:44:01,738 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:44:01,769 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:44:01,769 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:44:01,785 DEBUG   ] MySQL login successful.
+[2024-05-10 06:44:01,785 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:49:01,557 INFO    ] Program started.
+[2024-05-10 06:49:01,588 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:49:01,620 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:49:01,620 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:49:01,620 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:49:01,666 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:49:01,666 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:49:01,713 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:49:01,744 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:49:01,870 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:49:01,885 DEBUG   ] MySQL login successful.
+[2024-05-10 06:49:01,885 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:54:01,580 INFO    ] Program started.
+[2024-05-10 06:54:01,627 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:54:01,658 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:54:01,658 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:54:01,658 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:54:01,705 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:54:01,705 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:54:01,783 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:54:01,892 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:54:02,205 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:54:02,221 DEBUG   ] MySQL login successful.
+[2024-05-10 06:54:02,221 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 06:59:01,597 INFO    ] Program started.
+[2024-05-10 06:59:01,613 DEBUG   ] MySQL login test successful.
+[2024-05-10 06:59:01,644 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 06:59:01,644 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 06:59:01,644 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 06:59:01,691 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 06:59:01,691 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 06:59:01,754 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:59:01,769 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 06:59:01,785 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 06:59:01,785 DEBUG   ] MySQL login successful.
+[2024-05-10 06:59:01,800 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:04:01,599 INFO    ] Program started.
+[2024-05-10 07:04:01,630 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:04:01,662 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:04:01,662 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:04:01,662 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:04:01,740 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:04:01,740 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:04:01,755 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:04:01,818 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:04:01,818 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:04:01,833 DEBUG   ] MySQL login successful.
+[2024-05-10 07:04:01,833 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:09:01,607 INFO    ] Program started.
+[2024-05-10 07:09:01,638 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:09:01,669 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:09:01,669 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:09:01,669 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:09:01,716 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:09:01,716 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:09:01,794 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:09:01,794 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:09:01,935 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:09:01,966 DEBUG   ] MySQL login successful.
+[2024-05-10 07:09:01,966 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:14:01,605 INFO    ] Program started.
+[2024-05-10 07:14:01,621 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:14:01,652 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:14:01,652 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:14:01,652 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:14:01,746 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:14:01,746 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:14:01,840 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:14:01,871 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:14:02,121 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:14:02,136 DEBUG   ] MySQL login successful.
+[2024-05-10 07:14:02,136 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:19:01,614 INFO    ] Program started.
+[2024-05-10 07:19:01,645 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:19:01,677 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:19:01,677 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:19:01,677 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:19:01,724 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:19:01,724 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:19:01,802 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:19:01,817 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:19:01,880 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:19:01,896 DEBUG   ] MySQL login successful.
+[2024-05-10 07:19:01,896 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:24:00,607 INFO    ] Program started.
+[2024-05-10 07:24:00,638 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:24:00,670 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:24:00,670 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:24:00,670 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:24:00,732 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:24:00,748 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:24:00,779 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:24:00,810 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:24:00,857 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:24:00,857 DEBUG   ] MySQL login successful.
+[2024-05-10 07:24:00,873 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:29:00,624 INFO    ] Program started.
+[2024-05-10 07:29:00,655 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:29:00,686 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:29:00,686 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:29:00,686 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:29:00,733 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:29:00,749 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:29:00,827 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:29:00,827 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:29:00,921 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:29:00,936 DEBUG   ] MySQL login successful.
+[2024-05-10 07:29:00,952 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:34:00,604 INFO    ] Program started.
+[2024-05-10 07:34:00,635 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:34:00,666 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:34:00,666 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:34:00,666 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:34:00,729 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:34:00,729 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:34:00,807 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:34:00,823 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:34:01,151 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:34:01,166 DEBUG   ] MySQL login successful.
+[2024-05-10 07:34:01,166 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:39:00,608 INFO    ] Program started.
+[2024-05-10 07:39:00,639 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:39:00,670 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:39:00,670 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:39:00,670 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:39:00,717 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:39:00,717 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:39:00,764 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:39:00,811 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:39:00,983 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:39:00,998 DEBUG   ] MySQL login successful.
+[2024-05-10 07:39:00,998 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:44:00,592 INFO    ] Program started.
+[2024-05-10 07:44:00,623 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:44:00,654 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:44:00,654 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:44:00,654 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:44:00,701 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:44:00,717 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:44:00,748 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:44:00,748 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:44:01,092 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:44:01,107 DEBUG   ] MySQL login successful.
+[2024-05-10 07:44:01,107 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:49:00,594 INFO    ] Program started.
+[2024-05-10 07:49:00,626 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:49:00,657 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:49:00,657 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:49:00,657 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:49:00,719 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:49:00,719 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:49:00,751 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:49:00,766 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:49:00,813 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:49:00,829 DEBUG   ] MySQL login successful.
+[2024-05-10 07:49:00,829 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:54:00,638 INFO    ] Program started.
+[2024-05-10 07:54:00,669 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:54:00,701 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:54:00,701 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:54:00,701 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:54:00,748 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:54:00,748 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:54:00,794 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:54:00,826 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:54:00,841 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:54:00,857 DEBUG   ] MySQL login successful.
+[2024-05-10 07:54:00,857 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 07:59:00,647 INFO    ] Program started.
+[2024-05-10 07:59:00,678 DEBUG   ] MySQL login test successful.
+[2024-05-10 07:59:00,710 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 07:59:00,710 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 07:59:00,710 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 07:59:00,756 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 07:59:00,756 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 07:59:00,819 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 07:59:00,850 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:59:00,975 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 07:59:00,991 DEBUG   ] MySQL login successful.
+[2024-05-10 07:59:00,991 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:04:00,652 INFO    ] Program started.
+[2024-05-10 08:04:00,683 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:04:00,715 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:04:00,715 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:04:00,715 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:04:00,761 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:04:00,761 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:04:00,808 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:04:00,855 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:04:01,011 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:04:01,027 DEBUG   ] MySQL login successful.
+[2024-05-10 08:04:01,027 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:09:00,645 INFO    ] Program started.
+[2024-05-10 08:09:00,676 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:09:00,723 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:09:00,723 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:09:00,723 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:09:00,770 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:09:00,785 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:09:00,816 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:09:00,832 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:09:00,879 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:09:00,895 DEBUG   ] MySQL login successful.
+[2024-05-10 08:09:00,895 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:14:00,651 INFO    ] Program started.
+[2024-05-10 08:14:00,682 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:14:00,713 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:14:00,713 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:14:00,713 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:14:00,791 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:14:00,791 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:14:00,823 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:14:00,885 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:14:00,995 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:14:01,010 DEBUG   ] MySQL login successful.
+[2024-05-10 08:14:01,010 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:19:00,690 INFO    ] Program started.
+[2024-05-10 08:19:00,721 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:19:00,752 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:19:00,752 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:19:00,752 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:19:00,846 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:19:00,846 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:19:00,924 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:19:00,940 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:19:01,775 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:19:01,807 DEBUG   ] MySQL login successful.
+[2024-05-10 08:19:01,807 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:24:00,690 INFO    ] Program started.
+[2024-05-10 08:24:00,706 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:24:00,737 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:24:00,737 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:24:00,737 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:24:00,815 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:24:00,815 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:24:00,862 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:24:00,909 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:24:01,127 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:24:01,174 DEBUG   ] MySQL login successful.
+[2024-05-10 08:24:01,174 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:29:00,665 INFO    ] Program started.
+[2024-05-10 08:29:00,712 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:29:00,743 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:29:00,743 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:29:00,743 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:29:00,805 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:29:00,805 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:29:00,837 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:29:00,852 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:29:00,899 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:29:00,915 DEBUG   ] MySQL login successful.
+[2024-05-10 08:29:00,915 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:34:00,709 INFO    ] Program started.
+[2024-05-10 08:34:00,740 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:34:00,771 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:34:00,771 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:34:00,771 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:34:00,834 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:34:00,834 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:34:00,865 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:34:00,927 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:34:00,990 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:34:01,005 DEBUG   ] MySQL login successful.
+[2024-05-10 08:34:01,005 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:39:00,863 INFO    ] Program started.
+[2024-05-10 08:39:00,910 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:39:00,956 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:39:00,956 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:39:00,956 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:39:01,035 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:39:01,035 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:39:01,052 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:39:01,238 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:39:01,441 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:39:01,456 DEBUG   ] MySQL login successful.
+[2024-05-10 08:39:01,472 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:44:00,770 INFO    ] Program started.
+[2024-05-10 08:44:00,801 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:44:00,833 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:44:00,833 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:44:00,833 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:44:00,895 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:44:00,895 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:44:00,942 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:44:00,989 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:44:01,317 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:44:01,364 DEBUG   ] MySQL login successful.
+[2024-05-10 08:44:01,364 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:49:00,703 INFO    ] Program started.
+[2024-05-10 08:49:00,734 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:49:00,750 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:49:00,750 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:49:00,750 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:49:00,796 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:49:00,812 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:49:00,843 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:49:00,890 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:49:01,015 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:49:01,062 DEBUG   ] MySQL login successful.
+[2024-05-10 08:49:01,078 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:54:00,766 INFO    ] Program started.
+[2024-05-10 08:54:00,797 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:54:00,844 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:54:00,844 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:54:00,844 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:54:00,907 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:54:00,907 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:54:00,969 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:54:01,001 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:54:01,110 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:54:01,126 DEBUG   ] MySQL login successful.
+[2024-05-10 08:54:01,126 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 08:59:00,747 INFO    ] Program started.
+[2024-05-10 08:59:00,778 DEBUG   ] MySQL login test successful.
+[2024-05-10 08:59:00,825 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 08:59:00,825 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 08:59:00,825 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 08:59:00,872 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 08:59:00,872 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 08:59:00,903 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:59:00,919 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 08:59:00,966 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 08:59:00,981 DEBUG   ] MySQL login successful.
+[2024-05-10 08:59:00,981 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:04:00,729 INFO    ] Program started.
+[2024-05-10 09:04:00,760 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:04:00,791 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:04:00,791 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:04:00,791 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:04:00,854 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:04:00,854 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:04:00,916 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:04:00,948 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:04:01,010 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:04:01,041 DEBUG   ] MySQL login successful.
+[2024-05-10 09:04:01,041 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:09:00,725 INFO    ] Program started.
+[2024-05-10 09:09:00,757 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:09:00,788 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:09:00,788 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:09:00,788 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:09:00,835 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:09:00,835 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:09:00,882 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:09:00,929 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:09:00,944 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:09:01,007 DEBUG   ] MySQL login successful.
+[2024-05-10 09:09:01,022 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:14:00,714 INFO    ] Program started.
+[2024-05-10 09:14:00,746 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:14:00,777 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:14:00,777 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:14:00,777 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:14:00,839 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:14:00,839 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:14:00,886 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:14:00,949 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:14:01,011 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:14:01,027 DEBUG   ] MySQL login successful.
+[2024-05-10 09:14:01,027 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:19:00,771 INFO    ] Program started.
+[2024-05-10 09:19:00,802 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:19:00,833 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:19:00,833 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:19:00,833 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:19:00,896 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:19:00,911 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:19:00,942 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:19:01,005 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:19:01,099 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:19:01,161 DEBUG   ] MySQL login successful.
+[2024-05-10 09:19:01,161 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:24:00,779 INFO    ] Program started.
+[2024-05-10 09:24:00,795 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:24:00,842 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:24:00,842 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:24:00,842 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:24:00,904 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:24:00,904 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:24:00,935 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:24:00,967 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:24:00,998 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:24:01,014 DEBUG   ] MySQL login successful.
+[2024-05-10 09:24:01,014 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:29:00,720 INFO    ] Program started.
+[2024-05-10 09:29:00,751 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:29:00,782 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:29:00,782 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:29:00,782 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:29:00,845 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:29:00,845 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:29:00,876 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:29:00,938 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:29:01,063 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:29:01,079 DEBUG   ] MySQL login successful.
+[2024-05-10 09:29:01,079 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:34:00,779 INFO    ] Program started.
+[2024-05-10 09:34:00,825 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:34:00,857 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:34:00,857 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:34:00,857 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:34:00,935 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:34:00,935 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:34:00,982 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:34:00,982 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:34:01,029 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:34:01,044 DEBUG   ] MySQL login successful.
+[2024-05-10 09:34:01,044 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:39:00,841 INFO    ] Program started.
+[2024-05-10 09:39:00,877 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:39:00,913 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:39:00,914 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:39:00,914 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:39:01,072 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:39:01,073 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:39:01,076 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:39:01,203 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:39:01,221 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:39:01,236 DEBUG   ] MySQL login successful.
+[2024-05-10 09:39:01,238 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:44:00,813 INFO    ] Program started.
+[2024-05-10 09:44:00,843 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:44:00,875 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:44:00,875 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:44:00,890 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:44:00,937 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:44:00,953 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:44:00,984 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:44:01,031 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:44:01,047 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:44:01,062 DEBUG   ] MySQL login successful.
+[2024-05-10 09:44:01,062 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:49:00,862 INFO    ] Program started.
+[2024-05-10 09:49:00,893 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:49:00,931 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:49:00,931 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:49:00,932 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:49:00,985 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:49:00,987 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:49:01,023 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:49:01,070 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:49:01,203 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:49:01,219 DEBUG   ] MySQL login successful.
+[2024-05-10 09:49:01,219 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:54:00,835 INFO    ] Program started.
+[2024-05-10 09:54:00,866 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:54:00,897 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:54:00,897 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:54:00,897 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:54:01,000 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:54:01,000 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:54:01,031 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:54:01,093 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:54:01,547 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:54:01,578 DEBUG   ] MySQL login successful.
+[2024-05-10 09:54:01,578 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 09:59:00,812 INFO    ] Program started.
+[2024-05-10 09:59:00,828 DEBUG   ] MySQL login test successful.
+[2024-05-10 09:59:00,875 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 09:59:00,875 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 09:59:00,875 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 09:59:00,937 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 09:59:00,937 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 09:59:00,969 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 09:59:00,984 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:59:01,078 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 09:59:01,094 DEBUG   ] MySQL login successful.
+[2024-05-10 09:59:01,094 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:04:00,858 INFO    ] Program started.
+[2024-05-10 10:04:00,889 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:04:00,936 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:04:00,936 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:04:00,936 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:04:00,983 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:04:00,983 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:04:01,030 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:04:01,077 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:04:01,092 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:04:01,108 DEBUG   ] MySQL login successful.
+[2024-05-10 10:04:01,108 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:09:00,883 INFO    ] Program started.
+[2024-05-10 10:09:00,914 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:09:00,961 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:09:00,961 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:09:00,961 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:09:01,039 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:09:01,039 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:09:01,070 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:09:01,133 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:09:01,133 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:09:01,180 DEBUG   ] MySQL login successful.
+[2024-05-10 10:09:01,180 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:14:00,978 INFO    ] Program started.
+[2024-05-10 10:14:01,025 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:14:01,056 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:14:01,056 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:14:01,056 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:14:01,134 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:14:01,134 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:14:01,165 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:14:01,228 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:14:02,072 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:14:02,087 DEBUG   ] MySQL login successful.
+[2024-05-10 10:14:02,087 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:19:00,876 INFO    ] Program started.
+[2024-05-10 10:19:00,907 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:19:00,954 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:19:00,954 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:19:00,954 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:19:01,001 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:19:01,017 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:19:01,048 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:19:01,095 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:19:01,126 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:19:01,126 DEBUG   ] MySQL login successful.
+[2024-05-10 10:19:01,142 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:24:00,891 INFO    ] Program started.
+[2024-05-10 10:24:00,922 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:24:00,953 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:24:00,953 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:24:00,953 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:24:01,016 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:24:01,016 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:24:01,063 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:24:01,141 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:24:01,344 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:24:01,391 DEBUG   ] MySQL login successful.
+[2024-05-10 10:24:01,391 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:29:00,870 INFO    ] Program started.
+[2024-05-10 10:29:00,902 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:29:00,949 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:29:00,949 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:29:00,949 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:29:00,995 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:29:01,011 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:29:01,074 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:29:01,089 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:29:01,214 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:29:01,245 DEBUG   ] MySQL login successful.
+[2024-05-10 10:29:01,245 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:34:00,930 INFO    ] Program started.
+[2024-05-10 10:34:00,946 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:34:00,977 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:34:00,977 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:34:00,977 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:34:01,040 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:34:01,040 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:34:01,087 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:34:01,133 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:34:01,243 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:34:01,258 DEBUG   ] MySQL login successful.
+[2024-05-10 10:34:01,258 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:39:00,914 INFO    ] Program started.
+[2024-05-10 10:39:00,945 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:39:00,992 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:39:00,992 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:39:00,992 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:39:01,055 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:39:01,055 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:39:01,102 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:39:01,149 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:39:01,289 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:39:01,305 DEBUG   ] MySQL login successful.
+[2024-05-10 10:39:01,305 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:44:00,900 INFO    ] Program started.
+[2024-05-10 10:44:00,931 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:44:00,962 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:44:00,962 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:44:00,962 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:44:01,025 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:44:01,040 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:44:01,087 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:44:01,119 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:44:01,119 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:44:01,165 DEBUG   ] MySQL login successful.
+[2024-05-10 10:44:01,165 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:49:00,905 INFO    ] Program started.
+[2024-05-10 10:49:00,936 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:49:00,968 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:49:00,968 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:49:00,983 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:49:01,046 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:49:01,046 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:49:01,061 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:49:01,077 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:49:01,139 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:49:01,155 DEBUG   ] MySQL login successful.
+[2024-05-10 10:49:01,155 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:54:00,937 INFO    ] Program started.
+[2024-05-10 10:54:00,968 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:54:01,015 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:54:01,015 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:54:01,015 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:54:01,062 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:54:01,077 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:54:01,109 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:54:01,155 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:54:01,171 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:54:01,187 DEBUG   ] MySQL login successful.
+[2024-05-10 10:54:01,187 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 10:59:00,940 INFO    ] Program started.
+[2024-05-10 10:59:00,972 DEBUG   ] MySQL login test successful.
+[2024-05-10 10:59:01,018 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 10:59:01,018 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 10:59:01,018 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 10:59:01,081 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 10:59:01,081 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 10:59:01,112 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 10:59:01,128 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:59:01,190 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 10:59:01,206 DEBUG   ] MySQL login successful.
+[2024-05-10 10:59:01,206 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:04:00,944 INFO    ] Program started.
+[2024-05-10 11:04:00,975 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:04:01,006 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:04:01,006 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:04:01,006 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:04:01,084 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:04:01,084 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:04:01,100 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:04:01,209 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:04:01,491 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:04:01,538 DEBUG   ] MySQL login successful.
+[2024-05-10 11:04:01,538 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:09:00,929 INFO    ] Program started.
+[2024-05-10 11:09:00,976 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:09:01,007 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:09:01,007 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:09:01,007 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:09:01,054 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:09:01,070 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:09:01,117 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:09:01,148 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:09:01,273 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:09:01,320 DEBUG   ] MySQL login successful.
+[2024-05-10 11:09:01,320 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:14:00,964 INFO    ] Program started.
+[2024-05-10 11:14:00,995 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:14:01,042 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:14:01,042 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:14:01,042 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:14:01,089 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:14:01,089 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:14:01,136 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:14:01,199 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:14:01,433 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:14:01,449 DEBUG   ] MySQL login successful.
+[2024-05-10 11:14:01,449 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:19:00,990 INFO    ] Program started.
+[2024-05-10 11:19:01,021 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:19:01,052 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:19:01,052 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:19:01,052 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:19:01,146 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:19:01,146 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:19:01,177 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:19:01,177 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:19:01,224 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:19:01,240 DEBUG   ] MySQL login successful.
+[2024-05-10 11:19:01,240 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:24:00,953 INFO    ] Program started.
+[2024-05-10 11:24:00,984 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:24:01,016 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:24:01,016 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:24:01,016 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:24:01,063 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:24:01,063 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:24:01,094 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:24:01,156 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:24:01,156 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:24:01,203 DEBUG   ] MySQL login successful.
+[2024-05-10 11:24:01,203 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:29:00,971 INFO    ] Program started.
+[2024-05-10 11:29:01,002 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:29:01,049 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:29:01,049 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:29:01,049 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:29:01,143 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:29:01,253 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:29:01,253 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:29:01,299 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:29:01,346 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:29:01,362 DEBUG   ] MySQL login successful.
+[2024-05-10 11:29:01,362 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:34:00,995 INFO    ] Program started.
+[2024-05-10 11:34:01,026 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:34:01,058 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:34:01,058 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:34:01,058 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:34:01,120 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:34:01,120 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:34:01,167 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:34:01,198 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:34:01,214 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:34:01,229 DEBUG   ] MySQL login successful.
+[2024-05-10 11:34:01,229 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:39:01,021 INFO    ] Program started.
+[2024-05-10 11:39:01,068 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:39:01,099 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:39:01,099 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:39:01,099 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:39:01,161 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:39:01,161 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:39:01,208 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:39:01,255 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:39:01,333 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:39:01,349 DEBUG   ] MySQL login successful.
+[2024-05-10 11:39:01,349 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:44:01,031 INFO    ] Program started.
+[2024-05-10 11:44:01,078 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:44:01,124 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:44:01,124 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:44:01,124 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:44:01,171 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:44:01,171 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:44:01,218 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:44:01,265 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:44:01,374 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:44:01,421 DEBUG   ] MySQL login successful.
+[2024-05-10 11:44:01,421 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:49:01,031 INFO    ] Program started.
+[2024-05-10 11:49:01,063 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:49:01,094 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:49:01,094 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:49:01,094 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:49:01,141 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:49:01,141 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:49:01,188 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:49:01,235 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:49:01,313 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:49:01,375 DEBUG   ] MySQL login successful.
+[2024-05-10 11:49:01,375 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:54:01,012 INFO    ] Program started.
+[2024-05-10 11:54:01,043 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:54:01,075 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:54:01,075 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:54:01,090 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:54:01,137 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:54:01,137 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:54:01,184 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:54:01,246 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:54:01,371 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:54:01,387 DEBUG   ] MySQL login successful.
+[2024-05-10 11:54:01,387 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 11:59:01,038 INFO    ] Program started.
+[2024-05-10 11:59:01,085 DEBUG   ] MySQL login test successful.
+[2024-05-10 11:59:01,117 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 11:59:01,117 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 11:59:01,117 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 11:59:01,179 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 11:59:01,179 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 11:59:01,288 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 11:59:01,288 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:59:01,413 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 11:59:01,445 DEBUG   ] MySQL login successful.
+[2024-05-10 11:59:01,445 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:04:01,081 INFO    ] Program started.
+[2024-05-10 12:04:01,112 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:04:01,143 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:04:01,143 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:04:01,143 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:04:01,206 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:04:01,221 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:04:01,253 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:04:01,300 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:04:01,378 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:04:01,425 DEBUG   ] MySQL login successful.
+[2024-05-10 12:04:01,425 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:09:01,029 INFO    ] Program started.
+[2024-05-10 12:09:01,060 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:09:01,091 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:09:01,091 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:09:01,091 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:09:01,154 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:09:01,154 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:09:01,201 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:09:01,247 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:09:01,263 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:09:01,326 DEBUG   ] MySQL login successful.
+[2024-05-10 12:09:01,326 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:14:01,063 INFO    ] Program started.
+[2024-05-10 12:14:01,094 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:14:01,141 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:14:01,141 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:14:01,141 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:14:01,188 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:14:01,188 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:14:01,235 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:14:01,282 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:14:01,422 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:14:01,422 DEBUG   ] MySQL login successful.
+[2024-05-10 12:14:01,438 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:19:01,073 INFO    ] Program started.
+[2024-05-10 12:19:01,104 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:19:01,135 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:19:01,135 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:19:01,135 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:19:01,198 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:19:01,198 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:19:01,229 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:19:01,291 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:19:01,370 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:19:01,385 DEBUG   ] MySQL login successful.
+[2024-05-10 12:19:01,698 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:24:01,060 INFO    ] Program started.
+[2024-05-10 12:24:01,092 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:24:01,139 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:24:01,139 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:24:01,139 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:24:01,185 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:24:01,201 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:24:01,232 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:24:01,279 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:24:01,404 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:24:01,435 DEBUG   ] MySQL login successful.
+[2024-05-10 12:24:01,435 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:29:01,069 INFO    ] Program started.
+[2024-05-10 12:29:01,116 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:29:01,147 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:29:01,147 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:29:01,147 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:29:01,210 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:29:01,210 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:29:01,241 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:29:01,304 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:29:01,491 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:29:01,507 DEBUG   ] MySQL login successful.
+[2024-05-10 12:29:01,507 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:34:01,089 INFO    ] Program started.
+[2024-05-10 12:34:01,120 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:34:01,151 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:34:01,167 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:34:01,167 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:34:01,214 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:34:01,214 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:34:01,245 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:34:01,307 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:34:01,479 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:34:01,495 DEBUG   ] MySQL login successful.
+[2024-05-10 12:34:01,495 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:39:01,109 INFO    ] Program started.
+[2024-05-10 12:39:01,156 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:39:01,187 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:39:01,187 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:39:01,187 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:39:01,250 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:39:01,250 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:39:01,281 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:39:01,375 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:39:01,484 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:39:01,500 DEBUG   ] MySQL login successful.
+[2024-05-10 12:39:01,500 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:44:01,121 INFO    ] Program started.
+[2024-05-10 12:44:01,153 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:44:01,184 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:44:01,184 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:44:01,184 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:44:01,231 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:44:01,231 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:44:01,278 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:44:01,465 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:44:01,637 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:44:01,653 DEBUG   ] MySQL login successful.
+[2024-05-10 12:44:01,653 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:49:01,112 INFO    ] Program started.
+[2024-05-10 12:49:01,144 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:49:01,175 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:49:01,175 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:49:01,175 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:49:01,253 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:49:01,253 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:49:01,284 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:49:01,347 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:49:01,487 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:49:01,550 DEBUG   ] MySQL login successful.
+[2024-05-10 12:49:01,550 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:54:01,141 INFO    ] Program started.
+[2024-05-10 12:54:01,172 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:54:01,219 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:54:01,219 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:54:01,219 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:54:01,266 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:54:01,282 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:54:01,313 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:54:01,360 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:54:01,579 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:54:01,610 DEBUG   ] MySQL login successful.
+[2024-05-10 12:54:01,610 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 12:59:01,122 INFO    ] Program started.
+[2024-05-10 12:59:01,153 DEBUG   ] MySQL login test successful.
+[2024-05-10 12:59:01,184 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 12:59:01,184 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 12:59:01,184 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 12:59:01,247 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 12:59:01,247 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 12:59:01,278 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 12:59:01,356 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:59:01,700 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 12:59:01,747 DEBUG   ] MySQL login successful.
+[2024-05-10 12:59:01,747 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:04:01,167 INFO    ] Program started.
+[2024-05-10 13:04:01,182 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:04:01,214 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:04:01,214 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:04:01,229 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:04:01,292 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:04:01,292 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:04:01,385 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:04:01,385 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:04:01,714 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:04:01,729 DEBUG   ] MySQL login successful.
+[2024-05-10 13:04:01,729 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:09:01,172 INFO    ] Program started.
+[2024-05-10 13:09:01,203 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:09:01,234 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:09:01,234 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:09:01,234 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:09:01,297 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:09:01,297 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:09:01,344 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:09:01,344 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:09:01,531 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:09:01,547 DEBUG   ] MySQL login successful.
+[2024-05-10 13:09:01,547 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:14:01,179 INFO    ] Program started.
+[2024-05-10 13:14:01,195 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:14:01,226 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:14:01,226 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:14:01,226 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:14:01,304 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:14:01,304 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:14:01,335 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:14:01,492 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:14:01,507 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:14:01,523 DEBUG   ] MySQL login successful.
+[2024-05-10 13:14:01,523 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:19:01,196 INFO    ] Program started.
+[2024-05-10 13:19:01,212 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:19:01,243 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:19:01,243 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:19:01,243 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:19:01,306 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:19:01,306 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:19:01,337 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:19:01,399 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:19:01,556 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:19:01,602 DEBUG   ] MySQL login successful.
+[2024-05-10 13:19:01,618 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:24:01,190 INFO    ] Program started.
+[2024-05-10 13:24:01,221 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:24:01,252 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:24:01,252 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:24:01,252 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:24:01,299 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:24:01,315 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:24:01,346 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:24:01,362 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:24:01,393 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:24:01,408 DEBUG   ] MySQL login successful.
+[2024-05-10 13:24:01,408 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:29:01,201 INFO    ] Program started.
+[2024-05-10 13:29:01,232 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:29:01,263 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:29:01,263 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:29:01,263 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:29:01,326 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:29:01,326 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:29:01,357 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:29:01,529 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:29:01,841 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:29:01,841 DEBUG   ] MySQL login successful.
+[2024-05-10 13:29:01,841 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:34:01,240 INFO    ] Program started.
+[2024-05-10 13:34:01,271 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:34:01,318 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:34:01,318 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:34:01,318 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:34:01,381 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:34:01,381 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:34:01,412 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:34:01,475 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:34:02,443 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:34:02,459 DEBUG   ] MySQL login successful.
+[2024-05-10 13:34:02,459 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:39:01,233 INFO    ] Program started.
+[2024-05-10 13:39:01,264 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:39:01,295 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:39:01,295 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:39:01,295 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:39:01,358 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:39:01,373 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:39:01,389 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:39:01,452 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:39:02,498 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:39:02,498 DEBUG   ] MySQL login successful.
+[2024-05-10 13:39:02,514 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:44:01,241 INFO    ] Program started.
+[2024-05-10 13:44:01,273 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:44:01,304 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:44:01,304 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:44:01,304 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:44:01,351 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:44:01,351 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:44:01,382 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:44:01,445 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:44:01,554 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:44:01,570 DEBUG   ] MySQL login successful.
+[2024-05-10 13:44:01,570 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:49:01,218 INFO    ] Program started.
+[2024-05-10 13:49:01,249 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:49:01,281 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:49:01,281 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:49:01,281 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:49:01,359 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:49:01,359 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:49:01,374 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:49:01,406 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:49:01,453 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:49:01,453 DEBUG   ] MySQL login successful.
+[2024-05-10 13:49:01,468 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:54:01,256 INFO    ] Program started.
+[2024-05-10 13:54:01,287 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:54:01,318 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:54:01,318 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:54:01,318 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:54:01,381 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:54:01,381 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:54:01,412 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:54:01,584 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:54:01,787 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:54:01,802 DEBUG   ] MySQL login successful.
+[2024-05-10 13:54:01,802 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 13:59:01,251 INFO    ] Program started.
+[2024-05-10 13:59:01,282 DEBUG   ] MySQL login test successful.
+[2024-05-10 13:59:01,314 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 13:59:01,329 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 13:59:01,329 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 13:59:01,376 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 13:59:01,376 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 13:59:01,423 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 13:59:01,470 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:59:01,798 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 13:59:01,798 DEBUG   ] MySQL login successful.
+[2024-05-10 13:59:01,814 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:04:01,266 INFO    ] Program started.
+[2024-05-10 14:04:01,297 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:04:01,328 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:04:01,328 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:04:01,328 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:04:01,407 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:04:01,407 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:04:01,407 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:04:01,500 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:04:01,594 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:04:01,610 DEBUG   ] MySQL login successful.
+[2024-05-10 14:04:01,610 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:09:01,281 INFO    ] Program started.
+[2024-05-10 14:09:01,312 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:09:01,343 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:09:01,343 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:09:01,343 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:09:01,421 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:09:01,421 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:09:01,452 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:09:01,515 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:09:01,781 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:09:01,796 DEBUG   ] MySQL login successful.
+[2024-05-10 14:09:01,796 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:14:01,260 INFO    ] Program started.
+[2024-05-10 14:14:01,291 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:14:01,324 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:14:01,324 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:14:01,324 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:14:01,369 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:14:01,369 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:14:01,416 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:14:01,463 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:14:01,588 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:14:01,604 DEBUG   ] MySQL login successful.
+[2024-05-10 14:14:01,604 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:19:01,264 INFO    ] Program started.
+[2024-05-10 14:19:01,311 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:19:01,327 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:19:01,327 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:19:01,327 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:19:01,389 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:19:01,389 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:19:01,436 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:19:01,499 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:19:01,593 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:19:01,655 DEBUG   ] MySQL login successful.
+[2024-05-10 14:19:01,655 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:24:01,326 INFO    ] Program started.
+[2024-05-10 14:24:01,357 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:24:01,389 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:24:01,389 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:24:01,389 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:24:01,467 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:24:01,467 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:24:01,498 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:24:01,498 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:24:01,592 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:24:01,607 DEBUG   ] MySQL login successful.
+[2024-05-10 14:24:01,607 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:29:01,311 INFO    ] Program started.
+[2024-05-10 14:29:01,343 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:29:01,374 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:29:01,374 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:29:01,374 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:29:01,421 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:29:01,421 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:29:01,468 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:29:01,468 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:29:01,514 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:29:01,530 DEBUG   ] MySQL login successful.
+[2024-05-10 14:29:01,530 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:34:01,298 INFO    ] Program started.
+[2024-05-10 14:34:01,329 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:34:01,360 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:34:01,360 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:34:01,360 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:34:01,423 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:34:01,423 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:34:01,470 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:34:01,470 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:34:01,517 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:34:01,532 DEBUG   ] MySQL login successful.
+[2024-05-10 14:34:01,532 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:39:01,298 INFO    ] Program started.
+[2024-05-10 14:39:01,330 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:39:01,361 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:39:01,361 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:39:01,361 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:39:01,408 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:39:01,408 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:39:01,470 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:39:01,502 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:39:01,627 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:39:01,673 DEBUG   ] MySQL login successful.
+[2024-05-10 14:39:01,673 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:44:01,296 INFO    ] Program started.
+[2024-05-10 14:44:01,343 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:44:01,374 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:44:01,374 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:44:01,374 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:44:01,421 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:44:01,437 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:44:01,468 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:44:01,546 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:44:01,640 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:44:01,656 DEBUG   ] MySQL login successful.
+[2024-05-10 14:44:01,656 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:49:01,355 INFO    ] Program started.
+[2024-05-10 14:49:01,386 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:49:01,417 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:49:01,417 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:49:01,417 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:49:01,480 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:49:01,480 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:49:01,527 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:49:01,573 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:49:01,902 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:49:01,917 DEBUG   ] MySQL login successful.
+[2024-05-10 14:49:01,917 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:54:01,347 INFO    ] Program started.
+[2024-05-10 14:54:01,378 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:54:01,409 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:54:01,409 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:54:01,409 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:54:01,472 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:54:01,472 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:54:01,503 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:54:01,862 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:54:01,909 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:54:01,956 DEBUG   ] MySQL login successful.
+[2024-05-10 14:54:01,956 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 14:59:01,347 INFO    ] Program started.
+[2024-05-10 14:59:01,378 DEBUG   ] MySQL login test successful.
+[2024-05-10 14:59:01,410 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 14:59:01,410 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 14:59:01,410 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 14:59:01,472 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 14:59:01,472 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 14:59:01,503 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 14:59:01,550 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:59:01,628 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 14:59:01,644 DEBUG   ] MySQL login successful.
+[2024-05-10 14:59:01,644 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:04:01,375 INFO    ] Program started.
+[2024-05-10 15:04:01,407 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:04:01,438 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:04:01,438 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:04:01,438 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:04:01,500 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:04:01,516 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:04:01,532 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:04:01,594 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:04:01,735 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:04:01,797 DEBUG   ] MySQL login successful.
+[2024-05-10 15:04:01,797 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:09:01,377 INFO    ] Program started.
+[2024-05-10 15:09:01,409 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:09:01,440 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:09:01,440 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:09:01,440 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:09:01,502 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:09:01,502 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:09:01,549 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:09:01,596 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:09:01,721 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:09:01,784 DEBUG   ] MySQL login successful.
+[2024-05-10 15:09:01,784 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:14:01,355 INFO    ] Program started.
+[2024-05-10 15:14:01,387 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:14:01,418 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:14:01,418 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:14:01,418 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:14:01,465 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:14:01,465 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:14:01,512 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:14:01,558 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:14:01,918 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:14:01,949 DEBUG   ] MySQL login successful.
+[2024-05-10 15:14:01,949 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:19:01,342 INFO    ] Program started.
+[2024-05-10 15:19:01,373 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:19:01,405 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:19:01,405 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:19:01,405 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:19:01,467 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:19:01,467 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:19:01,514 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:19:01,561 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:19:01,670 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:19:01,686 DEBUG   ] MySQL login successful.
+[2024-05-10 15:19:01,686 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:24:01,391 INFO    ] Program started.
+[2024-05-10 15:24:01,422 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:24:01,454 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:24:01,454 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:24:01,454 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:24:01,516 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:24:01,516 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:24:01,547 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:24:01,610 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:24:02,047 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:24:02,063 DEBUG   ] MySQL login successful.
+[2024-05-10 15:24:02,063 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:29:01,363 INFO    ] Program started.
+[2024-05-10 15:29:01,394 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:29:01,426 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:29:01,426 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:29:01,426 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:29:01,488 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:29:01,488 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:29:01,519 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:29:01,707 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:29:01,879 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:29:01,894 DEBUG   ] MySQL login successful.
+[2024-05-10 15:29:01,894 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:34:01,404 INFO    ] Program started.
+[2024-05-10 15:34:01,436 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:34:01,482 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:34:01,482 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:34:01,482 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:34:01,561 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:34:01,561 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:34:01,592 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:34:01,607 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:34:01,670 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:34:01,686 DEBUG   ] MySQL login successful.
+[2024-05-10 15:34:01,686 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:39:01,386 INFO    ] Program started.
+[2024-05-10 15:39:01,417 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:39:01,448 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:39:01,448 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:39:01,448 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:39:01,511 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:39:01,511 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:39:01,558 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:39:01,589 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:39:02,011 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:39:02,027 DEBUG   ] MySQL login successful.
+[2024-05-10 15:39:02,027 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:44:01,407 INFO    ] Program started.
+[2024-05-10 15:44:01,438 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:44:01,469 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:44:01,469 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:44:01,469 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:44:01,547 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:44:01,547 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:44:01,579 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:44:01,641 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:44:01,657 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:44:01,657 DEBUG   ] MySQL login successful.
+[2024-05-10 15:44:01,657 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:49:01,424 INFO    ] Program started.
+[2024-05-10 15:49:01,455 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:49:01,486 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:49:01,486 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:49:01,486 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:49:01,564 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:49:01,564 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:49:01,596 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:49:01,658 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:49:01,939 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:49:01,955 DEBUG   ] MySQL login successful.
+[2024-05-10 15:49:01,955 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:54:01,409 INFO    ] Program started.
+[2024-05-10 15:54:01,425 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:54:01,456 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:54:01,456 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:54:01,456 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:54:01,518 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:54:01,518 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:54:01,565 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:54:01,612 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:54:01,737 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:54:01,753 DEBUG   ] MySQL login successful.
+[2024-05-10 15:54:01,768 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 15:59:01,410 INFO    ] Program started.
+[2024-05-10 15:59:01,441 DEBUG   ] MySQL login test successful.
+[2024-05-10 15:59:01,473 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 15:59:01,473 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 15:59:01,473 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 15:59:01,519 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 15:59:01,519 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 15:59:01,598 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 15:59:01,613 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:59:01,660 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 15:59:01,676 DEBUG   ] MySQL login successful.
+[2024-05-10 15:59:01,676 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 16:04:01,457 INFO    ] Program started.
+[2024-05-10 16:04:01,489 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:04:01,520 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 16:04:01,520 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 16:04:01,520 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 16:04:01,582 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 16:04:01,582 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 16:04:01,614 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 16:04:01,676 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:04:01,801 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:04:01,817 DEBUG   ] MySQL login successful.
+[2024-05-10 16:04:01,817 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 16:09:01,424 INFO    ] Program started.
+[2024-05-10 16:09:01,455 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:09:01,486 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 16:09:01,502 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 16:09:01,502 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 16:09:01,564 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 16:09:01,564 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 16:09:01,595 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 16:09:01,720 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:09:01,970 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:09:01,986 DEBUG   ] MySQL login successful.
+[2024-05-10 16:09:01,986 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 16:14:01,437 INFO    ] Program started.
+[2024-05-10 16:14:01,468 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:14:01,515 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 16:14:01,515 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 16:14:01,515 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 16:14:01,562 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 16:14:01,562 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 16:14:01,609 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 16:14:01,655 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:14:01,655 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:14:01,702 DEBUG   ] MySQL login successful.
+[2024-05-10 16:14:01,718 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 16:19:01,422 INFO    ] Program started.
+[2024-05-10 16:19:01,454 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:19:01,500 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 16:19:01,500 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 16:19:01,500 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 16:19:01,547 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 16:19:01,547 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 16:19:01,594 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 16:19:01,641 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:19:01,719 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:19:01,735 DEBUG   ] MySQL login successful.
+[2024-05-10 16:19:01,735 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 16:24:01,469 INFO    ] Program started.
+[2024-05-10 16:24:01,500 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:24:01,531 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 16:24:01,531 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 16:24:01,531 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 16:24:01,594 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 16:24:01,610 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 16:24:01,656 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 16:24:01,656 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:24:01,703 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:24:01,719 DEBUG   ] MySQL login successful.
+[2024-05-10 16:24:01,719 DEBUG   ] Mysql data update success. Updated data count:3
+[2024-05-10 16:29:01,460 INFO    ] Program started.
+[2024-05-10 16:29:01,491 DEBUG   ] MySQL login test successful.
+[2024-05-10 16:29:01,522 DEBUG   ] Starting new HTTPS connection (1): netreg.isu.edu.tw:443
+[2024-05-10 16:29:01,522 DEBUG   ] Starting new HTTPS connection (1): google.com:443
+[2024-05-10 16:29:01,522 DEBUG   ] Starting new HTTPS connection (1): tw.yahoo.com:443
+[2024-05-10 16:29:01,585 DEBUG   ] https://google.com:443 "GET / HTTP/1.1" 301 220
+[2024-05-10 16:29:01,585 DEBUG   ] Starting new HTTPS connection (1): www.google.com:443
+[2024-05-10 16:29:01,616 DEBUG   ] https://netreg.isu.edu.tw:443 "GET /Wapp/Wap_indexmain2.asp HTTP/1.1" 200 13380
+[2024-05-10 16:29:01,679 DEBUG   ] https://www.google.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:29:01,835 DEBUG   ] https://tw.yahoo.com:443 "GET / HTTP/1.1" 200 None
+[2024-05-10 16:29:01,850 DEBUG   ] MySQL login successful.
+[2024-05-10 16:29:01,850 DEBUG   ] Mysql data update success. Updated data count:3

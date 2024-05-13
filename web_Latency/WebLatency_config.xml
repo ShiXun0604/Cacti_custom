@@ -1,0 +1,30 @@
+<monitoredWeb>
+    <MysqlSetting>
+        <host>localhost</host>
+        <user>ShiXun</user>
+        <pwd>password</pwd>
+        <database>cacti_customize</database>
+        <table>weblatency</table>
+        <primaryKey>url</primaryKey>
+    </MysqlSetting>
+    <monitorConfig>
+        <logPath>C:\cacti_expertos\WebLatency\log</logPath>
+    </monitorConfig>
+    <targetList>
+        <target>
+            <url>https://netreg.isu.edu.tw/Wapp/Wap_indexmain2.asp</url>
+            <keyWord>義守大學應用資訊系統圖片</keyWord>
+            <timeoutSetting>20</timeoutSetting>
+        </target>
+        <target>
+            <url>https://google.com</url>
+            <keyWord>google</keyWord>
+            <timeoutSetting>20</timeoutSetting>
+        </target>
+        <target>
+            <url>https://tw.yahoo.com</url>
+            <keyWord>yahoo</keyWord>
+            <timeoutSetting>20</timeoutSetting>
+        </target>
+    </targetList>
+</monitoredWeb>
